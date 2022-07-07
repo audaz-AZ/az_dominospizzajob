@@ -1,0 +1,65 @@
+-------------------------------------------------------------
+
+░█████╗░███████╗░░░░░░██████╗░░█████╗░███╗░░░███╗██╗███╗░░██╗░█████╗░██╗░██████╗░░░░░░██████╗░██╗███████╗███████╗░█████╗░
+██╔══██╗╚════██║░░░░░░██╔══██╗██╔══██╗████╗░████║██║████╗░██║██╔══██╗╚█║██╔════╝░░░░░░██╔══██╗██║╚════██║╚════██║██╔══██╗
+███████║░░███╔═╝█████╗██║░░██║██║░░██║██╔████╔██║██║██╔██╗██║██║░░██║░╚╝╚█████╗░█████╗██████╔╝██║░░███╔═╝░░███╔═╝███████║
+██╔══██║██╔══╝░░╚════╝██║░░██║██║░░██║██║╚██╔╝██║██║██║╚████║██║░░██║░░░░╚═══██╗╚════╝██╔═══╝░██║██╔══╝░░██╔══╝░░██╔══██║
+██║░░██║███████╗░░░░░░██████╔╝╚█████╔╝██║░╚═╝░██║██║██║░╚███║╚█████╔╝░░░██████╔╝░░░░░░██║░░░░░██║███████╗███████╗██║░░██║
+╚═╝░░╚═╝╚══════╝░░░░░░╚═════╝░░╚════╝░╚═╝░░░░░╚═╝╚═╝╚═╝░░╚══╝░╚════╝░░░░╚═════╝░░░░░░░╚═╝░░░░░╚═╝╚══════╝╚══════╝╚═╝░░╚═╝ 
+░░░░░██╗░█████╗░██████╗░
+░░░░░██║██╔══██╗██╔══██╗
+░░░░░██║██║░░██║██████╦╝
+██╗░░██║██║░░██║██╔══██╗
+╚█████╔╝╚█████╔╝██████╦╝
+░╚════╝░░╚════╝░╚═════╝░
+
+-------------------------------------------------------------
+
+Gracias por usar audaz#0001 & Canario3400 Dominos Pizza Job !
+
+-------------------------------------------------------------
+Pasos de instalacion :
+
+- Crear una carpeta llamada [az_dominospizzajob] y meter todos los scripts del job.
+- Ir al final del server.cfg y poner lo siguiente
+
+#------Dominos Pizza--------#
+start DominosPizzaJob
+start Mapeado_Dominos_Pizza
+start TiendaDominosPizza
+start az_dominosbike
+start az_dominoscar
+
+¡ Y ya estaria listo para usar !
+
+-------------------------------------------------------------
+
+Mis redes :
+
+--> Podreis contactar por alli en caso de que lo necessiteis :
+  │
+  │- Discord : audaz#0001
+  │
+  │- Instagram : _.huugo0._
+  │
+  │- Mi GitHub : audaz-AZ
+
+-------------------------------------------------------------
+
+Info : /setjob (tu id) pizza (rango hay hasta 3 rangos)
+
+-------------------------------------------------------------
+
+NO IMPORTANTE , NO HACE FALTA LEER.
+
+CC : az_dominospizzajob by audaz is licensed under a Creative Commons. Reconocimiento-NoComercial-SinObraDerivada 4.0 Internacional License.
+
+DMCA : Protection: This Uniform Resource Locator az_dominospizzajob is owned or published under permission by the owner of this channel. 
+The audio and or video presentation is original content and or contains original content published under permission including but not limited to text, design, images, 
+photographs, audio and video and are considered to be the Intellectual Property of the owner of this channel, whether copyrighted or not,
+and are protected by DMCA.com Protection Pro Service using but not limited to the Digital Millennium Copyright Act Title 17 Chapter 512 (c)(3).
+Reproduction or re-publication of this content is prohibited without permission. This statement and the protection service connected to it is no way a replacement of or 
+connected to any similar statements or services provided to the content owner by this service platform.
+
+
+-------------------------------------------------------------
